@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xjannic
+- 👀 I’m interested in cloud computing and IT-Engineering.
+- 🌱 I’m currently learning IaC, SaltStack, Terraform, ...
